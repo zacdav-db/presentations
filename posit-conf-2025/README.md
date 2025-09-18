@@ -1,4 +1,4 @@
-# Posit Conf '25 Talk Resources
+# Resources
 
 ## Positron
 * [Download Positron](https://positron.posit.co/download.html)
