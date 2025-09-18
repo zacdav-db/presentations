@@ -1,5 +1,9 @@
 # Resources
 
+## Brickster
+* [GitHub repo](https://github.com/databrickslabs/brickster)
+* [Getting setup with OAuth U2M](https://databrickslabs.github.io/brickster/articles/setup-auth.html) 
+
 ## Positron
 * [Download Positron](https://positron.posit.co/download.html)
 * [Enable the assistant](https://positron.posit.co/assistant.html)
