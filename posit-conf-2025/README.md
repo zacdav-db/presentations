@@ -19,3 +19,6 @@
 * DBI  
 * jsonlite  
 
+# Recommended Reading
+* [{ellmer} tool/function calling vignette](https://ellmer.tidyverse.org/articles/tool-calling.html)
+* [MCP protocol getting started](https://modelcontextprotocol.io/docs/getting-started/intro)
